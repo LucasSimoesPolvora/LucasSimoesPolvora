@@ -61,9 +61,6 @@
 
 ###
 
-<h3 align="left">🤝 My commits :</h3>
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/luc.as0624/?next=%2F" target="_blank">
