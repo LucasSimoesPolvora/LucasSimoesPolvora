@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Switzerland<br><br>- ⏲ I'm currently a student in ETML, Lausanne<br>- 📚 I'm currently learning Vue3<br>- ⚡ In my free time I like to play video games and code</p>
+<p align="left">I'm Lucas from Switzerland<br><br>- ⏲ I'm currently a student in ETML, Lausanne<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I like to play video games and code</p>
 
 ###
 
